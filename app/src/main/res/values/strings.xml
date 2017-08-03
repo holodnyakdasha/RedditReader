@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">RedditReader</string>
+
+
+    <plurals name="hours">
+        <item quantity="one">submitted %d hour ago by</item>
+        <item quantity="other">submitted %d hours ago by</item>
+
+    </plurals>
+</resources>

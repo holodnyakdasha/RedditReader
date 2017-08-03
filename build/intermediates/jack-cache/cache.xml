@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/kholodnyakdasha/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/converter-gson/2.1.0/aa557d71ead91cbf26e0c316a0f593d168303309/converter-gson-2.1.0.jar"
+        revision="25.0.3"
+        sha1="aa557d71ead91cbf26e0c316a0f593d168303309">
+        <dex dex="/Users/kholodnyakdasha/Downloads/ghjtrn/RedditReader/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/converter-gson-2.1.0-d6c28351a1e19fbacba5d24006e00bb60ae60db6.jar" />
+    </item>
+    <item
+        jar="/Users/kholodnyakdasha/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/annotations/4.0.0-RC0/d5dd0afc50069b7fa0fc12ac85f91efa8df4db67/annotations-4.0.0-RC0.jar"
+        revision="25.0.3"
+        sha1="d5dd0afc50069b7fa0fc12ac85f91efa8df4db67">
+        <dex dex="/Users/kholodnyakdasha/Downloads/ghjtrn/RedditReader/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/annotations-4.0.0-RC0-32f91f6b650727d65b0a78a3b88c4544d2240e9a.jar" />
+    </item>
+    <item
+        jar="/Users/kholodnyakdasha/.android/build-cache/684fcb285d3638f390fe589b65b6514439ff32c6/output/jars/classes.jar"
+        revision="25.0.3"
+        sha1="cbb26a4f659b17abc1f75ff735a607aa299697ac">
+        <dex dex="/Users/kholodnyakdasha/Downloads/ghjtrn/RedditReader/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-7b62c7b89167286b703080a94d9153d89c88b943.jar" />
+    </item>
+    <item
+        jar="/Users/kholodnyakdasha/.android/build-cache/0fcb5e00371ac49b7c516b681f09ee7ce988b5a3/output/jars/classes.jar"
+        revision="25.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/kholodnyakdasha/Downloads/ghjtrn/RedditReader/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-0e7ceef27e0b26df0c3af6ec03e8257af2a3415f.jar" />
+    </item>
+    <item
+        jar="/Users/kholodnyakdasha/.android/build-cache/ab6e3ec7d5fd510e0e748d2131c09c76dd9fdb1b/output/jars/classes.jar"
+        revision="25.0.3"
+        sha1="1a94a06ec585c9423a3c03bde1f7bf9268f83d66">
+        <dex dex="/Users/kholodnyakdasha/Downloads/ghjtrn/RedditReader/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-199aa848b84e2a229b58a21b71ac193089f0a225.jar" />
+    </item>
+    <item
+        jar="/Users/kholodnyakdasha/.gradle/caches/modules-2/files-2.1/io.reactivex.rxjava2/rxjava/2.0.1/57f850a6b317e5582f1dbaff10a9e7d7e1fcdcfb/rxjava-2.0.1.jar"
+        revision="25.0.3"
+        sha1="57f850a6b317e5582f1dbaff10a9e7d7e1fcdcfb">
+        <dex dex="/Users/kholodnyakdasha/Downloads/ghjtrn/RedditReader/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/rxjava-2.0.1-7ebc4e035db8a66ea7edec3f5f51e7adbef3f429.jar" />
+    </item>
+    <item
+        jar="/Users/kholodnyakdasha/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.8.0/c4ba5371a29ac9b2ad6129b1d39ea38750043eff/gson-2.8.0.jar"
+        revision="25.0.3"
+        sha1="c4ba5371a29ac9b2ad6129b1d39ea38750043eff">
+        <dex dex="/Users/kholodnyakdasha/Downloads/ghjtrn/RedditReader/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/gson-2.8.0-24175300da67628eac3a2b3f27a163880a19289f.jar" />
+    </item>
+    <item
+        jar="/Users/kholodnyakdasha/.android/build-cache/6c1a5c17d354480b66103f2938303e2a5a6a689a/output/jars/classes.jar"
+        revision="25.0.3"
+        sha1="df733e6865d662899ec247e8c3dbff3e0961b8a7">
+        <dex dex="/Users/kholodnyakdasha/Downloads/ghjtrn/RedditReader/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-301372a5540444aee8af9b9222f625e3a05a3c0b.jar" />
+    </item>
+    <item
+        jar="/Users/kholodnyakdasha/Library/Android/sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        revision="25.0.3"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/Users/kholodnyakdasha/Downloads/ghjtrn/RedditReader/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/constraint-layout-solver-1.0.2-a73a1a7a04349261e8da048ac71a844e60bad405.jar" />
+    </item>
+    <item
+        jar="/Users/kholodnyakdasha/.gradle/caches/modules-2/files-2.1/org.reactivestreams/reactive-streams/1.0.0/14b8c877d98005ba3941c9257cfe09f6ed0e0d74/reactive-streams-1.0.0.jar"
+        revision="25.0.3"
+        sha1="14b8c877d98005ba3941c9257cfe09f6ed0e0d74">
+        <dex dex="/Users/kholodnyakdasha/Downloads/ghjtrn/RedditReader/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/reactive-streams-1.0.0-af92dd752eb576f9a6c9ba7d74a51c4bd2c03892.jar" />
+    </item>
+    <item
+        jar="/Users/kholodnyakdasha/.android/build-cache/72c8c37b2b242bb903161e6c00c7eea2ff525ae5/output/jars/classes.jar"
+        revision="25.0.3"
+        sha1="f7b86f1beb2b3625c6a1a5da6b5fc5294b64aea9">
+        <dex dex="/Users/kholodnyakdasha/Downloads/ghjtrn/RedditReader/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-16ff92efbc3287050ce274dae90c2f77a354c9f3.jar" />
+    </item>
+    <item
+        jar="/Users/kholodnyakdasha/Library/Android/sdk/platforms/android-26/optional/org.apache.http.legacy.jar"
+        revision="25.0.3"
+        sha1="11a66d3dd39e1bf29d1e9e960da0f6d1787937b0">
+        <dex dex="/Users/kholodnyakdasha/Downloads/ghjtrn/RedditReader/app/build/intermediates/transforms/preJackRuntimeLibraries/debug/jars/8000/40/org.apache.http.legacy-283afc8f6480ab3e486354a5ec4ee7a56a8b6410.jar" />
+    </item>
+    <item
+        jar="/Users/kholodnyakdasha/.gradle/caches/modules-2/files-2.1/com.jakewharton.retrofit/retrofit2-rxjava2-adapter/1.0.0/e117362a2103f8ec01091ebd2f40aca4e1ada599/retrofit2-rxjava2-adapter-1.0.0.jar"
+        revision="25.0.3"
+        sha1="e117362a2103f8ec01091ebd2f40aca4e1ada599">
+        <dex dex="/Users/kholodnyakdasha/Downloads/ghjtrn/RedditReader/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/retrofit2-rxjava2-adapter-1.0.0-2fd3621843aaaef72a4295ac9e287faafcd0d0a9.jar" />
+    </item>
+    <item
+        jar="/Users/kholodnyakdasha/.android/build-cache/ab255654f3ade49ecf7699ff518bd33370e84071/output/jars/classes.jar"
+        revision="25.0.3"
+        sha1="db0171d21d064bab7ad72685f3c7df40544b03a8">
+        <dex dex="/Users/kholodnyakdasha/Downloads/ghjtrn/RedditReader/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-cb3edc7b40ff5f56ea4bb779c3b76807e245f33d.jar" />
+    </item>
+    <item
+        jar="/Users/kholodnyakdasha/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/retrofit/2.1.0/2de7cd8b95b7021b1d597f049bcb422055119f2c/retrofit-2.1.0.jar"
+        revision="25.0.3"
+        sha1="2de7cd8b95b7021b1d597f049bcb422055119f2c">
+        <dex dex="/Users/kholodnyakdasha/Downloads/ghjtrn/RedditReader/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/retrofit-2.1.0-5675d4c106591e06af03c8d8119ee165bda9b301.jar" />
+    </item>
+    <item
+        jar="/Users/kholodnyakdasha/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.8.0/5ea7af56cc7c567ed9856d99efb30740e9b17ff/okio-1.8.0.jar"
+        revision="25.0.3"
+        sha1="05ea7af56cc7c567ed9856d99efb30740e9b17ff">
+        <dex dex="/Users/kholodnyakdasha/Downloads/ghjtrn/RedditReader/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/okio-1.8.0-a68954824f85f4d1e9eafa946815a4a4b2711401.jar" />
+    </item>
+    <item
+        jar="/Users/kholodnyakdasha/.gradle/caches/modules-2/files-2.1/com.android.support/support-annotations/26.0.0/db09a97f4f0db8892c1a0111a4b966f97920d082/support-annotations-26.0.0.jar"
+        revision="25.0.3"
+        sha1="db09a97f4f0db8892c1a0111a4b966f97920d082">
+        <dex dex="/Users/kholodnyakdasha/Downloads/ghjtrn/RedditReader/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/support-annotations-26.0.0-9a69d21a90b5636a8ea8ae2f68b172be108b34f3.jar" />
+    </item>
+    <item
+        jar="/Users/kholodnyakdasha/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.3.0/2b802460eea20f8f2ad9c08c74e0f14718e88aa9/okhttp-3.3.0.jar"
+        revision="25.0.3"
+        sha1="2b802460eea20f8f2ad9c08c74e0f14718e88aa9">
+        <dex dex="/Users/kholodnyakdasha/Downloads/ghjtrn/RedditReader/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/okhttp-3.3.0-59d697c694a133ebf628ecf5b42bebb2340398f2.jar" />
+    </item>
+    <item
+        jar="/Users/kholodnyakdasha/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/disklrucache/4.0.0-RC0/46d23cdc19155c5f0d47ece99ca1c421346c1509/disklrucache-4.0.0-RC0.jar"
+        revision="25.0.3"
+        sha1="46d23cdc19155c5f0d47ece99ca1c421346c1509">
+        <dex dex="/Users/kholodnyakdasha/Downloads/ghjtrn/RedditReader/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/disklrucache-4.0.0-RC0-04abffdf43ff717e6a347566e86e5b3c5f273881.jar" />
+    </item>
+    <item
+        jar="/Users/kholodnyakdasha/.android/build-cache/248cd36282c363e5b9aa58a264dab548d2cb4794/output/jars/classes.jar"
+        revision="25.0.3"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/Users/kholodnyakdasha/Downloads/ghjtrn/RedditReader/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-f66808867587c1d93ed20d7ff7409486850f1cc0.jar" />
+    </item>
+    <item
+        jar="/Users/kholodnyakdasha/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/glide/4.0.0-RC0/eb86cd1d96acc30dcebf338abaf2c62ca28bf355/glide-4.0.0-RC0.jar"
+        revision="25.0.3"
+        sha1="eb86cd1d96acc30dcebf338abaf2c62ca28bf355">
+        <dex dex="/Users/kholodnyakdasha/Downloads/ghjtrn/RedditReader/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/glide-4.0.0-RC0-c92a15e7316086c20e6dbcaf7e583d9ea4484f78.jar" />
+    </item>
+    <item
+        jar="/Users/kholodnyakdasha/.android/build-cache/9863160f66b973759b00435a1f5437e2bb8a17e6/output/jars/classes.jar"
+        revision="25.0.3"
+        sha1="a8655e6077da9526c0c94bf063f1275430ce8574">
+        <dex dex="/Users/kholodnyakdasha/Downloads/ghjtrn/RedditReader/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-40d7218b32e9da6eff983e7551f70ad4e8dfe9d2.jar" />
+    </item>
+    <item
+        jar="/Users/kholodnyakdasha/.android/build-cache/9bc5b2d89728589a15f939b0fc6f45906abcf468/output/jars/classes.jar"
+        revision="25.0.3"
+        sha1="8602ab07133e6ee182726fa27588420dba9d6d55">
+        <dex dex="/Users/kholodnyakdasha/Downloads/ghjtrn/RedditReader/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-fbe8870bf4e7e81af293560b44bbf0f7888e9655.jar" />
+    </item>
+    <item
+        jar="/Users/kholodnyakdasha/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/gifdecoder/4.0.0-RC0/c64f5d4805b528de434a5a8bb9a8091b6f9cd1a7/gifdecoder-4.0.0-RC0.jar"
+        revision="25.0.3"
+        sha1="c64f5d4805b528de434a5a8bb9a8091b6f9cd1a7">
+        <dex dex="/Users/kholodnyakdasha/Downloads/ghjtrn/RedditReader/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/gifdecoder-4.0.0-RC0-b4acb19fb807c24f4d07b17840db251110d2ea8b.jar" />
+    </item>
+    <item
+        jar="/Users/kholodnyakdasha/.android/build-cache/a0222eb59e2ca3d5ad3b7da87cdf3f0cbe371d6e/output/jars/classes.jar"
+        revision="25.0.3"
+        sha1="2520dd452fb1f487eba29ccd2d44358f0b8da788">
+        <dex dex="/Users/kholodnyakdasha/Downloads/ghjtrn/RedditReader/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-746b6d1d1e560f0efd2e40708fc057c7e6a70ca2.jar" />
+    </item>
+    <item
+        jar="/Users/kholodnyakdasha/.android/build-cache/1d185f4eec5240889e7c700fc5da283da3a1a08b/output/jars/classes.jar"
+        revision="25.0.3"
+        sha1="4119ea97a7191ff9b8f33b534ea220448f62f491">
+        <dex dex="/Users/kholodnyakdasha/Downloads/ghjtrn/RedditReader/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-54d2c7b5b59ff03ce8c335d5425ef68b09ae6a43.jar" />
+    </item>
+    <item
+        jar="/Users/kholodnyakdasha/.android/build-cache/9f7a65113bdd122bf1e0a0904e92a11d1060e473/output/jars/classes.jar"
+        revision="25.0.3"
+        sha1="b102f892442929c3457de1ef6a94f5dda3dd8864">
+        <dex dex="/Users/kholodnyakdasha/Downloads/ghjtrn/RedditReader/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-102a69fc7d0e8b831cba8e29376504b4db21a112.jar" />
+    </item>
+    <item
+        jar="/Users/kholodnyakdasha/Library/Android/sdk/platforms/android-26/android.jar"
+        revision="25.0.3"
+        sha1="f7a1d587eac1c2ac69db49a223ed438c7f0f31c0">
+        <dex dex="/Users/kholodnyakdasha/Downloads/ghjtrn/RedditReader/app/build/intermediates/transforms/preJackRuntimeLibraries/debug/jars/8000/40/android-bbfcbfff1ce3f7091e3ac2c5f4e02250596faa53.jar" />
+    </item>
+
+</items>

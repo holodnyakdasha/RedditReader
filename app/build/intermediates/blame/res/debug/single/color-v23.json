@@ -1,0 +1,82 @@
+[
+    {
+        "merged": "/Users/kholodnyakdasha/Downloads/ghjtrn/RedditReader/app/build/intermediates/res/merged/debug/color-v23/abc_tint_default.xml",
+        "source": "/Users/kholodnyakdasha/.android/build-cache/ab255654f3ade49ecf7699ff518bd33370e84071/output/res/color-v23/abc_tint_default.xml"
+    },
+    {
+        "merged": "/Users/kholodnyakdasha/Downloads/ghjtrn/RedditReader/app/build/intermediates/res/merged/debug/color-v23/abc_tint_switch_track.xml",
+        "source": "/Users/kholodnyakdasha/.android/build-cache/ab255654f3ade49ecf7699ff518bd33370e84071/output/res/color-v23/abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "/Users/kholodnyakdasha/Downloads/ghjtrn/RedditReader/app/build/intermediates/res/merged/debug/color-v23/abc_tint_seek_thumb.xml",
+        "source": "/Users/kholodnyakdasha/.android/build-cache/ab255654f3ade49ecf7699ff518bd33370e84071/output/res/color-v23/abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "/home/dkholodniak/AndroidStudioProjects/RedditReader/app/build/intermediates/res/merged/debug/color-v23/abc_tint_edittext.xml",
+        "source": "/home/dkholodniak/.android/build-cache/4bcb4cd4469667ff7a94c62c59d117479c62820a/output/res/color-v23/abc_tint_edittext.xml"
+    },
+    {
+        "merged": "/home/dkholodniak/AndroidStudioProjects/RedditReader/app/build/intermediates/res/merged/debug/color-v23/abc_tint_default.xml",
+        "source": "/home/dkholodniak/.android/build-cache/4bcb4cd4469667ff7a94c62c59d117479c62820a/output/res/color-v23/abc_tint_default.xml"
+    },
+    {
+        "merged": "/Users/kholodnyakdasha/Downloads/ghjtrn/RedditReader/app/build/intermediates/res/merged/debug/color-v23/abc_btn_colored_borderless_text_material.xml",
+        "source": "/Users/kholodnyakdasha/.android/build-cache/ab255654f3ade49ecf7699ff518bd33370e84071/output/res/color-v23/abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "/Users/kholodnyakdasha/Downloads/ghjtrn/RedditReader/app/build/intermediates/res/merged/debug/color-v23/abc_tint_btn_checkable.xml",
+        "source": "/Users/kholodnyakdasha/.android/build-cache/ab255654f3ade49ecf7699ff518bd33370e84071/output/res/color-v23/abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "/home/dkholodniak/AndroidStudioProjects/RedditReader/app/build/intermediates/res/merged/debug/color-v23/abc_color_highlight_material.xml",
+        "source": "/home/dkholodniak/.android/build-cache/4bcb4cd4469667ff7a94c62c59d117479c62820a/output/res/color-v23/abc_color_highlight_material.xml"
+    },
+    {
+        "merged": "/home/dkholodniak/AndroidStudioProjects/RedditReader/app/build/intermediates/res/merged/debug/color-v23/abc_tint_seek_thumb.xml",
+        "source": "/home/dkholodniak/.android/build-cache/4bcb4cd4469667ff7a94c62c59d117479c62820a/output/res/color-v23/abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "/Users/kholodnyakdasha/Downloads/ghjtrn/RedditReader/app/build/intermediates/res/merged/debug/color-v23/abc_btn_colored_text_material.xml",
+        "source": "/Users/kholodnyakdasha/.android/build-cache/ab255654f3ade49ecf7699ff518bd33370e84071/output/res/color-v23/abc_btn_colored_text_material.xml"
+    },
+    {
+        "merged": "/Users/kholodnyakdasha/Downloads/ghjtrn/RedditReader/app/build/intermediates/res/merged/debug/color-v23/abc_tint_spinner.xml",
+        "source": "/Users/kholodnyakdasha/.android/build-cache/ab255654f3ade49ecf7699ff518bd33370e84071/output/res/color-v23/abc_tint_spinner.xml"
+    },
+    {
+        "merged": "/home/dkholodniak/AndroidStudioProjects/RedditReader/app/build/intermediates/res/merged/debug/color-v23/abc_tint_btn_checkable.xml",
+        "source": "/home/dkholodniak/.android/build-cache/4bcb4cd4469667ff7a94c62c59d117479c62820a/output/res/color-v23/abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "/home/dkholodniak/AndroidStudioProjects/RedditReader/app/build/intermediates/res/merged/debug/color-v23/abc_tint_spinner.xml",
+        "source": "/home/dkholodniak/.android/build-cache/4bcb4cd4469667ff7a94c62c59d117479c62820a/output/res/color-v23/abc_tint_spinner.xml"
+    },
+    {
+        "merged": "/home/dkholodniak/AndroidStudioProjects/RedditReader/app/build/intermediates/res/merged/debug/color-v23/abc_btn_colored_text_material.xml",
+        "source": "/home/dkholodniak/.android/build-cache/4bcb4cd4469667ff7a94c62c59d117479c62820a/output/res/color-v23/abc_btn_colored_text_material.xml"
+    },
+    {
+        "merged": "/Users/kholodnyakdasha/Downloads/ghjtrn/RedditReader/app/build/intermediates/res/merged/debug/color-v23/abc_tint_switch_thumb.xml",
+        "source": "/Users/kholodnyakdasha/.android/build-cache/9aab28181605c4275c21177f2101c5cb8f32c198/output/res/color-v23/abc_tint_switch_thumb.xml"
+    },
+    {
+        "merged": "/Users/kholodnyakdasha/Downloads/ghjtrn/RedditReader/app/build/intermediates/res/merged/debug/color-v23/abc_tint_edittext.xml",
+        "source": "/Users/kholodnyakdasha/.android/build-cache/ab255654f3ade49ecf7699ff518bd33370e84071/output/res/color-v23/abc_tint_edittext.xml"
+    },
+    {
+        "merged": "/Users/kholodnyakdasha/Downloads/ghjtrn/RedditReader/app/build/intermediates/res/merged/debug/color-v23/abc_color_highlight_material.xml",
+        "source": "/Users/kholodnyakdasha/.android/build-cache/ab255654f3ade49ecf7699ff518bd33370e84071/output/res/color-v23/abc_color_highlight_material.xml"
+    },
+    {
+        "merged": "/home/dkholodniak/AndroidStudioProjects/RedditReader/app/build/intermediates/res/merged/debug/color-v23/abc_tint_switch_track.xml",
+        "source": "/home/dkholodniak/.android/build-cache/4bcb4cd4469667ff7a94c62c59d117479c62820a/output/res/color-v23/abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "/home/dkholodniak/AndroidStudioProjects/RedditReader/app/build/intermediates/res/merged/debug/color-v23/abc_btn_colored_borderless_text_material.xml",
+        "source": "/home/dkholodniak/.android/build-cache/4bcb4cd4469667ff7a94c62c59d117479c62820a/output/res/color-v23/abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "/home/dkholodniak/AndroidStudioProjects/RedditReader/app/build/intermediates/res/merged/debug/color-v23/abc_tint_switch_thumb.xml",
+        "source": "/home/dkholodniak/.android/build-cache/4bcb4cd4469667ff7a94c62c59d117479c62820a/output/res/color-v23/abc_tint_switch_thumb.xml"
+    }
+]

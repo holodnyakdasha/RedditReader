@@ -1,0 +1,7 @@
+#Wed Jun 21 14:30:07 EEST 2017
+base.0=/home/dkholodniak/AndroidStudioProjects/RedditReader/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_fc899192eb1ba929fa743c807b6e81ce5024bff4
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/home/dkholodniak/AndroidStudioProjects/RedditReader/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_7343820725cd08a99e6b0fe5a65dd1eac53b3d50/classes.dex
+base.1=/home/dkholodniak/AndroidStudioProjects/RedditReader/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_7343820725cd08a99e6b0fe5a65dd1eac53b3d50
+file.0=/home/dkholodniak/AndroidStudioProjects/RedditReader/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_fc899192eb1ba929fa743c807b6e81ce5024bff4/classes.dex

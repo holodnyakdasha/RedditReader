@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/dkholodniak/AndroidStudioProjects/RedditReader/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="c323c36ecc68965c4cfb460f7721113d2b61ed03">
+        <dex dex="/home/dkholodniak/AndroidStudioProjects/RedditReader/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_7343820725cd08a99e6b0fe5a65dd1eac53b3d50/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/dkholodniak/AndroidStudioProjects/RedditReader/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="25d98f6ee77a6af580ad12cb3b7022dd8de692ba">
+        <dex dex="/home/dkholodniak/AndroidStudioProjects/RedditReader/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_fc899192eb1ba929fa743c807b6e81ce5024bff4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/dkholodniak/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.8.0/c4ba5371a29ac9b2ad6129b1d39ea38750043eff/gson-2.8.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="c4ba5371a29ac9b2ad6129b1d39ea38750043eff">
+        <dex dex="/home/dkholodniak/AndroidStudioProjects/RedditReader/app/build/intermediates/transforms/dex/debug/folders/1000/10/gson-2.8.0_96227e65da98a062c462f7bb604b06e795931493/classes.dex" />
+    </item>
+
+</items>
