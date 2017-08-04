@@ -85,9 +85,10 @@ public class MainActivity extends AppCompatActivity {
                 .addConverterFactory(GsonConverterFactory.create())
                 .build().create(RedditInterface.class);
 
-        mCompositeDisposable.add(redditInterface.register()
-                .observeOn(AndroidSchedulers.mainThread()
-                .subscribeOn(Schedulers.io()))
+        mCompositeDisposable.add(
+                redditInterface.register()
+                .observeOn(AndroidSchedulers.mainThread())
+                .subscribeOn(Schedulers.io())
                 .subscribe(this::handleResponse,this::handleError));
     }
 
