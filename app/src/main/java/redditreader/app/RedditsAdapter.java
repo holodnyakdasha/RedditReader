@@ -1,6 +1,7 @@
 package redditreader.app;
 
 import android.content.Context;
+import android.support.v4.app.FragmentActivity;
 import android.support.v7.widget.RecyclerView;
 import android.view.LayoutInflater;
 import android.view.View;
@@ -18,12 +19,23 @@ import java.util.List;
  */
 
 public class RedditsAdapter extends RecyclerView.Adapter<RedditsAdapter.ViewHolder> {
-    private final Context context;
+    private Context context;
     private List<RedditThred> redditThreds;
 
+    public RedditsAdapter(Context context) {
+                this.context = context;
+            }
+
+
+
+
     public RedditsAdapter(ArrayList<RedditThred> redditThreds) {
-        this.context = context;
+
         this.redditThreds = redditThreds;
+    }
+
+    public RedditsAdapter(FragmentActivity activity) {
+
     }
 
 
@@ -36,7 +48,11 @@ public class RedditsAdapter extends RecyclerView.Adapter<RedditsAdapter.ViewHold
     @Override
     public ViewHolder onCreateViewHolder(ViewGroup viewGroup, int i) {
         View itemView = LayoutInflater.from(context).inflate(R.layout.reddit_item, viewGroup, false);
-        return new ViewHolder(itemView);
+                return new ViewHolder(itemView);
+
+
+
+
     }
 
     @Override

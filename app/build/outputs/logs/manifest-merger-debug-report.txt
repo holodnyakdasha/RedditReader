@@ -1,95 +1,149 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /Users/kholodnyakdasha/Downloads/ghjtrn/RedditReader/app/src/main/AndroidManifest.xml:2:1-23:12
+ADDED from /Users/kholodnyakdasha/Desktop/RedditReader/app/src/main/AndroidManifest.xml:2:1-23:12
+INJECTED from /Users/kholodnyakdasha/Desktop/RedditReader/app/src/main/AndroidManifest.xml:2:1-23:12
+INJECTED from /Users/kholodnyakdasha/Desktop/RedditReader/app/src/main/AndroidManifest.xml:2:1-23:12
+INJECTED from /Users/kholodnyakdasha/Desktop/RedditReader/app/src/main/AndroidManifest.xml:2:1-23:12
+MERGED from [com.android.support:appcompat-v7:25.4.0] /Users/kholodnyakdasha/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.4.0.aar/329f27f3cc75356b37b6fa6d902278f2/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:recyclerview-v7:25.4.0] /Users/kholodnyakdasha/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-25.4.0.aar/c4666a5d84b49a3be371862a844028c4/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/kholodnyakdasha/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/dfe60459e057d96f7969695e12d90a07/AndroidManifest.xml:2:1-11:12
+MERGED from [io.reactivex.rxjava2:rxandroid:2.0.1] /Users/kholodnyakdasha/.gradle/caches/transforms-1/files-1.1/rxandroid-2.0.1.aar/fd3f6e1e10f656f8f1ca5c0947d0ed04/AndroidManifest.xml:15:1-21:12
+MERGED from [com.android.support:animated-vector-drawable:25.4.0] /Users/kholodnyakdasha/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.4.0.aar/9055a31ade173f00fd8ac58a0487197d/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-vector-drawable:25.4.0] /Users/kholodnyakdasha/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.4.0.aar/f2f237162d223a2ddf7e0a76fc268752/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:25.4.0] /Users/kholodnyakdasha/.gradle/caches/transforms-1/files-1.1/support-v4-25.4.0.aar/8ad619651e770b37f38384b160b3e171/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:25.4.0] /Users/kholodnyakdasha/.gradle/caches/transforms-1/files-1.1/support-fragment-25.4.0.aar/67db4358921e81b078e95c2509125ac6/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-ui:25.4.0] /Users/kholodnyakdasha/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.4.0.aar/fd66f8b585fcde2f7f91614975da35cb/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:25.4.0] /Users/kholodnyakdasha/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.4.0.aar/e24e850b116d7b41e62bd845b6c7ded6/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:25.4.0] /Users/kholodnyakdasha/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.4.0.aar/76843579e2e3a70a5fbf86bff04ab2fe/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:25.4.0] /Users/kholodnyakdasha/.gradle/caches/transforms-1/files-1.1/support-compat-25.4.0.aar/561851b189a6987c18de8d5a8817154d/AndroidManifest.xml:17:1-31:12
+INJECTED from /Users/kholodnyakdasha/Desktop/RedditReader/app/src/main/AndroidManifest.xml:2:1-23:12
+INJECTED from /Users/kholodnyakdasha/Desktop/RedditReader/app/src/main/AndroidManifest.xml:2:1-23:12
+INJECTED from /Users/kholodnyakdasha/Desktop/RedditReader/app/src/main/AndroidManifest.xml:2:1-23:12
 	package
-		ADDED from /Users/kholodnyakdasha/Downloads/ghjtrn/RedditReader/app/src/main/AndroidManifest.xml:3:5-31
-		INJECTED from /Users/kholodnyakdasha/Downloads/ghjtrn/RedditReader/app/src/main/AndroidManifest.xml
-		INJECTED from /Users/kholodnyakdasha/Downloads/ghjtrn/RedditReader/app/src/main/AndroidManifest.xml
+		ADDED from /Users/kholodnyakdasha/Desktop/RedditReader/app/src/main/AndroidManifest.xml:3:5-31
+		INJECTED from /Users/kholodnyakdasha/Desktop/RedditReader/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/kholodnyakdasha/Desktop/RedditReader/app/src/main/AndroidManifest.xml
 	android:versionName
-		INJECTED from /Users/kholodnyakdasha/Downloads/ghjtrn/RedditReader/app/src/main/AndroidManifest.xml
-		INJECTED from /Users/kholodnyakdasha/Downloads/ghjtrn/RedditReader/app/src/main/AndroidManifest.xml
-	xmlns:android
-		ADDED from /Users/kholodnyakdasha/Downloads/ghjtrn/RedditReader/app/src/main/AndroidManifest.xml:2:11-69
+		INJECTED from /Users/kholodnyakdasha/Desktop/RedditReader/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/kholodnyakdasha/Desktop/RedditReader/app/src/main/AndroidManifest.xml
 	android:versionCode
-		INJECTED from /Users/kholodnyakdasha/Downloads/ghjtrn/RedditReader/app/src/main/AndroidManifest.xml
-		INJECTED from /Users/kholodnyakdasha/Downloads/ghjtrn/RedditReader/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/kholodnyakdasha/Desktop/RedditReader/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/kholodnyakdasha/Desktop/RedditReader/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/kholodnyakdasha/Desktop/RedditReader/app/src/main/AndroidManifest.xml:2:11-69
 uses-permission#android.permission.INTERNET
-ADDED from /Users/kholodnyakdasha/Downloads/ghjtrn/RedditReader/app/src/main/AndroidManifest.xml:5:5-83
+ADDED from /Users/kholodnyakdasha/Desktop/RedditReader/app/src/main/AndroidManifest.xml:5:5-83
 	android:name
-		ADDED from /Users/kholodnyakdasha/Downloads/ghjtrn/RedditReader/app/src/main/AndroidManifest.xml:5:22-64
+		ADDED from /Users/kholodnyakdasha/Desktop/RedditReader/app/src/main/AndroidManifest.xml:5:22-64
 application
-ADDED from /Users/kholodnyakdasha/Downloads/ghjtrn/RedditReader/app/src/main/AndroidManifest.xml:6:5-21:19
-MERGED from [com.android.support:appcompat-v7:26.0.0] /Users/kholodnyakdasha/.android/build-cache/ab255654f3ade49ecf7699ff518bd33370e84071/output/AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:support-v4:26.0.0] /Users/kholodnyakdasha/.android/build-cache/0fcb5e00371ac49b7c516b681f09ee7ce988b5a3/output/AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:support-media-compat:26.0.0] /Users/kholodnyakdasha/.android/build-cache/684fcb285d3638f390fe589b65b6514439ff32c6/output/AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:support-fragment:26.0.0] /Users/kholodnyakdasha/.android/build-cache/72c8c37b2b242bb903161e6c00c7eea2ff525ae5/output/AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:support-core-utils:26.0.0] /Users/kholodnyakdasha/.android/build-cache/ab6e3ec7d5fd510e0e748d2131c09c76dd9fdb1b/output/AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:animated-vector-drawable:26.0.0] /Users/kholodnyakdasha/.android/build-cache/9863160f66b973759b00435a1f5437e2bb8a17e6/output/AndroidManifest.xml:22:5-26:19
-MERGED from [com.android.support:support-vector-drawable:26.0.0] /Users/kholodnyakdasha/.android/build-cache/a0222eb59e2ca3d5ad3b7da87cdf3f0cbe371d6e/output/AndroidManifest.xml:22:5-26:19
-MERGED from [com.android.support:recyclerview-v7:26.0.0] /Users/kholodnyakdasha/.android/build-cache/6c1a5c17d354480b66103f2938303e2a5a6a689a/output/AndroidManifest.xml:22:5-26:19
-MERGED from [com.android.support:support-core-ui:26.0.0] /Users/kholodnyakdasha/.android/build-cache/9f7a65113bdd122bf1e0a0904e92a11d1060e473/output/AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:support-compat:26.0.0] /Users/kholodnyakdasha/.android/build-cache/9bc5b2d89728589a15f939b0fc6f45906abcf468/output/AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/kholodnyakdasha/.android/build-cache/248cd36282c363e5b9aa58a264dab548d2cb4794/output/AndroidManifest.xml:9:5-20
-	android:label
-		ADDED from /Users/kholodnyakdasha/Downloads/ghjtrn/RedditReader/app/src/main/AndroidManifest.xml:9:9-41
+ADDED from /Users/kholodnyakdasha/Desktop/RedditReader/app/src/main/AndroidManifest.xml:6:5-21:19
+MERGED from [com.android.support:appcompat-v7:25.4.0] /Users/kholodnyakdasha/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.4.0.aar/329f27f3cc75356b37b6fa6d902278f2/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:appcompat-v7:25.4.0] /Users/kholodnyakdasha/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.4.0.aar/329f27f3cc75356b37b6fa6d902278f2/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:recyclerview-v7:25.4.0] /Users/kholodnyakdasha/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-25.4.0.aar/c4666a5d84b49a3be371862a844028c4/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:recyclerview-v7:25.4.0] /Users/kholodnyakdasha/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-25.4.0.aar/c4666a5d84b49a3be371862a844028c4/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/kholodnyakdasha/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/dfe60459e057d96f7969695e12d90a07/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/kholodnyakdasha/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/dfe60459e057d96f7969695e12d90a07/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.4.0] /Users/kholodnyakdasha/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.4.0.aar/9055a31ade173f00fd8ac58a0487197d/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:animated-vector-drawable:25.4.0] /Users/kholodnyakdasha/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.4.0.aar/9055a31ade173f00fd8ac58a0487197d/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:25.4.0] /Users/kholodnyakdasha/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.4.0.aar/f2f237162d223a2ddf7e0a76fc268752/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:25.4.0] /Users/kholodnyakdasha/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.4.0.aar/f2f237162d223a2ddf7e0a76fc268752/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-v4:25.4.0] /Users/kholodnyakdasha/.gradle/caches/transforms-1/files-1.1/support-v4-25.4.0.aar/8ad619651e770b37f38384b160b3e171/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:25.4.0] /Users/kholodnyakdasha/.gradle/caches/transforms-1/files-1.1/support-v4-25.4.0.aar/8ad619651e770b37f38384b160b3e171/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:25.4.0] /Users/kholodnyakdasha/.gradle/caches/transforms-1/files-1.1/support-fragment-25.4.0.aar/67db4358921e81b078e95c2509125ac6/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:25.4.0] /Users/kholodnyakdasha/.gradle/caches/transforms-1/files-1.1/support-fragment-25.4.0.aar/67db4358921e81b078e95c2509125ac6/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:25.4.0] /Users/kholodnyakdasha/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.4.0.aar/fd66f8b585fcde2f7f91614975da35cb/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:25.4.0] /Users/kholodnyakdasha/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.4.0.aar/fd66f8b585fcde2f7f91614975da35cb/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:25.4.0] /Users/kholodnyakdasha/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.4.0.aar/e24e850b116d7b41e62bd845b6c7ded6/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:25.4.0] /Users/kholodnyakdasha/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.4.0.aar/e24e850b116d7b41e62bd845b6c7ded6/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:25.4.0] /Users/kholodnyakdasha/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.4.0.aar/76843579e2e3a70a5fbf86bff04ab2fe/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:25.4.0] /Users/kholodnyakdasha/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.4.0.aar/76843579e2e3a70a5fbf86bff04ab2fe/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:25.4.0] /Users/kholodnyakdasha/.gradle/caches/transforms-1/files-1.1/support-compat-25.4.0.aar/561851b189a6987c18de8d5a8817154d/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:25.4.0] /Users/kholodnyakdasha/.gradle/caches/transforms-1/files-1.1/support-compat-25.4.0.aar/561851b189a6987c18de8d5a8817154d/AndroidManifest.xml:25:5-29:19
 	android:supportsRtl
-		ADDED from /Users/kholodnyakdasha/Downloads/ghjtrn/RedditReader/app/src/main/AndroidManifest.xml:11:9-35
+		ADDED from /Users/kholodnyakdasha/Desktop/RedditReader/app/src/main/AndroidManifest.xml:11:9-35
+	android:label
+		ADDED from /Users/kholodnyakdasha/Desktop/RedditReader/app/src/main/AndroidManifest.xml:9:9-41
 	android:roundIcon
-		ADDED from /Users/kholodnyakdasha/Downloads/ghjtrn/RedditReader/app/src/main/AndroidManifest.xml:10:9-54
-	android:allowBackup
-		ADDED from /Users/kholodnyakdasha/Downloads/ghjtrn/RedditReader/app/src/main/AndroidManifest.xml:7:9-35
+		ADDED from /Users/kholodnyakdasha/Desktop/RedditReader/app/src/main/AndroidManifest.xml:10:9-54
 	android:icon
-		ADDED from /Users/kholodnyakdasha/Downloads/ghjtrn/RedditReader/app/src/main/AndroidManifest.xml:8:9-43
+		ADDED from /Users/kholodnyakdasha/Desktop/RedditReader/app/src/main/AndroidManifest.xml:8:9-43
+	android:allowBackup
+		ADDED from /Users/kholodnyakdasha/Desktop/RedditReader/app/src/main/AndroidManifest.xml:7:9-35
 	android:theme
-		ADDED from /Users/kholodnyakdasha/Downloads/ghjtrn/RedditReader/app/src/main/AndroidManifest.xml:12:9-40
+		ADDED from /Users/kholodnyakdasha/Desktop/RedditReader/app/src/main/AndroidManifest.xml:12:9-40
 activity#redditreader.app.MainActivity
-ADDED from /Users/kholodnyakdasha/Downloads/ghjtrn/RedditReader/app/src/main/AndroidManifest.xml:13:9-19:20
+ADDED from /Users/kholodnyakdasha/Desktop/RedditReader/app/src/main/AndroidManifest.xml:13:9-19:20
 	android:name
-		ADDED from /Users/kholodnyakdasha/Downloads/ghjtrn/RedditReader/app/src/main/AndroidManifest.xml:13:19-47
+		ADDED from /Users/kholodnyakdasha/Desktop/RedditReader/app/src/main/AndroidManifest.xml:13:19-47
 intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
-ADDED from /Users/kholodnyakdasha/Downloads/ghjtrn/RedditReader/app/src/main/AndroidManifest.xml:14:13-18:29
+ADDED from /Users/kholodnyakdasha/Desktop/RedditReader/app/src/main/AndroidManifest.xml:14:13-18:29
 action#android.intent.action.MAIN
-ADDED from /Users/kholodnyakdasha/Downloads/ghjtrn/RedditReader/app/src/main/AndroidManifest.xml:15:17-69
+ADDED from /Users/kholodnyakdasha/Desktop/RedditReader/app/src/main/AndroidManifest.xml:15:17-69
 	android:name
-		ADDED from /Users/kholodnyakdasha/Downloads/ghjtrn/RedditReader/app/src/main/AndroidManifest.xml:15:25-66
+		ADDED from /Users/kholodnyakdasha/Desktop/RedditReader/app/src/main/AndroidManifest.xml:15:25-66
 category#android.intent.category.LAUNCHER
-ADDED from /Users/kholodnyakdasha/Downloads/ghjtrn/RedditReader/app/src/main/AndroidManifest.xml:17:17-77
+ADDED from /Users/kholodnyakdasha/Desktop/RedditReader/app/src/main/AndroidManifest.xml:17:17-77
 	android:name
-		ADDED from /Users/kholodnyakdasha/Downloads/ghjtrn/RedditReader/app/src/main/AndroidManifest.xml:17:27-74
+		ADDED from /Users/kholodnyakdasha/Desktop/RedditReader/app/src/main/AndroidManifest.xml:17:27-74
 uses-sdk
-INJECTED from /Users/kholodnyakdasha/Downloads/ghjtrn/RedditReader/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
-MERGED from [com.android.support:appcompat-v7:26.0.0] /Users/kholodnyakdasha/.android/build-cache/ab255654f3ade49ecf7699ff518bd33370e84071/output/AndroidManifest.xml:21:5-23:78
-MERGED from [com.android.support:support-v4:26.0.0] /Users/kholodnyakdasha/.android/build-cache/0fcb5e00371ac49b7c516b681f09ee7ce988b5a3/output/AndroidManifest.xml:21:5-23:54
-MERGED from [com.android.support:support-media-compat:26.0.0] /Users/kholodnyakdasha/.android/build-cache/684fcb285d3638f390fe589b65b6514439ff32c6/output/AndroidManifest.xml:21:5-23:63
-MERGED from [com.android.support:support-fragment:26.0.0] /Users/kholodnyakdasha/.android/build-cache/72c8c37b2b242bb903161e6c00c7eea2ff525ae5/output/AndroidManifest.xml:21:5-23:60
-MERGED from [com.android.support:support-core-utils:26.0.0] /Users/kholodnyakdasha/.android/build-cache/ab6e3ec7d5fd510e0e748d2131c09c76dd9fdb1b/output/AndroidManifest.xml:21:5-23:61
-MERGED from [com.android.support:animated-vector-drawable:26.0.0] /Users/kholodnyakdasha/.android/build-cache/9863160f66b973759b00435a1f5437e2bb8a17e6/output/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:26.0.0] /Users/kholodnyakdasha/.android/build-cache/a0222eb59e2ca3d5ad3b7da87cdf3f0cbe371d6e/output/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:recyclerview-v7:26.0.0] /Users/kholodnyakdasha/.android/build-cache/6c1a5c17d354480b66103f2938303e2a5a6a689a/output/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-ui:26.0.0] /Users/kholodnyakdasha/.android/build-cache/9f7a65113bdd122bf1e0a0904e92a11d1060e473/output/AndroidManifest.xml:21:5-23:58
-MERGED from [com.android.support:support-compat:26.0.0] /Users/kholodnyakdasha/.android/build-cache/9bc5b2d89728589a15f939b0fc6f45906abcf468/output/AndroidManifest.xml:21:5-23:58
-MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/kholodnyakdasha/.android/build-cache/248cd36282c363e5b9aa58a264dab548d2cb4794/output/AndroidManifest.xml:5:5-7:41
-MERGED from [io.reactivex.rxjava2:rxandroid:2.0.1] /Users/kholodnyakdasha/.android/build-cache/1d185f4eec5240889e7c700fc5da283da3a1a08b/output/AndroidManifest.xml:19:5-43
+INJECTED from /Users/kholodnyakdasha/Desktop/RedditReader/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/kholodnyakdasha/Desktop/RedditReader/app/src/main/AndroidManifest.xml
+INJECTED from /Users/kholodnyakdasha/Desktop/RedditReader/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:25.4.0] /Users/kholodnyakdasha/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.4.0.aar/329f27f3cc75356b37b6fa6d902278f2/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:25.4.0] /Users/kholodnyakdasha/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.4.0.aar/329f27f3cc75356b37b6fa6d902278f2/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:recyclerview-v7:25.4.0] /Users/kholodnyakdasha/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-25.4.0.aar/c4666a5d84b49a3be371862a844028c4/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:25.4.0] /Users/kholodnyakdasha/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-25.4.0.aar/c4666a5d84b49a3be371862a844028c4/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/kholodnyakdasha/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/dfe60459e057d96f7969695e12d90a07/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/kholodnyakdasha/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/dfe60459e057d96f7969695e12d90a07/AndroidManifest.xml:5:5-7:41
+MERGED from [io.reactivex.rxjava2:rxandroid:2.0.1] /Users/kholodnyakdasha/.gradle/caches/transforms-1/files-1.1/rxandroid-2.0.1.aar/fd3f6e1e10f656f8f1ca5c0947d0ed04/AndroidManifest.xml:19:5-43
+MERGED from [io.reactivex.rxjava2:rxandroid:2.0.1] /Users/kholodnyakdasha/.gradle/caches/transforms-1/files-1.1/rxandroid-2.0.1.aar/fd3f6e1e10f656f8f1ca5c0947d0ed04/AndroidManifest.xml:19:5-43
+MERGED from [com.android.support:animated-vector-drawable:25.4.0] /Users/kholodnyakdasha/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.4.0.aar/9055a31ade173f00fd8ac58a0487197d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:25.4.0] /Users/kholodnyakdasha/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.4.0.aar/9055a31ade173f00fd8ac58a0487197d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.4.0] /Users/kholodnyakdasha/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.4.0.aar/f2f237162d223a2ddf7e0a76fc268752/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-vector-drawable:25.4.0] /Users/kholodnyakdasha/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.4.0.aar/f2f237162d223a2ddf7e0a76fc268752/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:25.4.0] /Users/kholodnyakdasha/.gradle/caches/transforms-1/files-1.1/support-v4-25.4.0.aar/8ad619651e770b37f38384b160b3e171/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:25.4.0] /Users/kholodnyakdasha/.gradle/caches/transforms-1/files-1.1/support-v4-25.4.0.aar/8ad619651e770b37f38384b160b3e171/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.4.0] /Users/kholodnyakdasha/.gradle/caches/transforms-1/files-1.1/support-fragment-25.4.0.aar/67db4358921e81b078e95c2509125ac6/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:25.4.0] /Users/kholodnyakdasha/.gradle/caches/transforms-1/files-1.1/support-fragment-25.4.0.aar/67db4358921e81b078e95c2509125ac6/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-ui:25.4.0] /Users/kholodnyakdasha/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.4.0.aar/fd66f8b585fcde2f7f91614975da35cb/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:25.4.0] /Users/kholodnyakdasha/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.4.0.aar/fd66f8b585fcde2f7f91614975da35cb/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-media-compat:25.4.0] /Users/kholodnyakdasha/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.4.0.aar/e24e850b116d7b41e62bd845b6c7ded6/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:25.4.0] /Users/kholodnyakdasha/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.4.0.aar/e24e850b116d7b41e62bd845b6c7ded6/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:25.4.0] /Users/kholodnyakdasha/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.4.0.aar/76843579e2e3a70a5fbf86bff04ab2fe/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:25.4.0] /Users/kholodnyakdasha/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.4.0.aar/76843579e2e3a70a5fbf86bff04ab2fe/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.4.0] /Users/kholodnyakdasha/.gradle/caches/transforms-1/files-1.1/support-compat-25.4.0.aar/561851b189a6987c18de8d5a8817154d/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.4.0] /Users/kholodnyakdasha/.gradle/caches/transforms-1/files-1.1/support-compat-25.4.0.aar/561851b189a6987c18de8d5a8817154d/AndroidManifest.xml:21:5-23:58
+INJECTED from /Users/kholodnyakdasha/Desktop/RedditReader/app/src/main/AndroidManifest.xml
+INJECTED from /Users/kholodnyakdasha/Desktop/RedditReader/app/src/main/AndroidManifest.xml
 	tools:overrideLibrary
-		ADDED from [com.android.support:appcompat-v7:26.0.0] /Users/kholodnyakdasha/.android/build-cache/ab255654f3ade49ecf7699ff518bd33370e84071/output/AndroidManifest.xml:23:9-75
+		ADDED from [com.android.support:appcompat-v7:25.4.0] /Users/kholodnyakdasha/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.4.0.aar/329f27f3cc75356b37b6fa6d902278f2/AndroidManifest.xml:23:9-75
 	android:targetSdkVersion
-		INJECTED from /Users/kholodnyakdasha/Downloads/ghjtrn/RedditReader/app/src/main/AndroidManifest.xml
-		INJECTED from /Users/kholodnyakdasha/Downloads/ghjtrn/RedditReader/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/kholodnyakdasha/Desktop/RedditReader/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/kholodnyakdasha/Desktop/RedditReader/app/src/main/AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from /Users/kholodnyakdasha/Downloads/ghjtrn/RedditReader/app/src/main/AndroidManifest.xml
-		INJECTED from /Users/kholodnyakdasha/Downloads/ghjtrn/RedditReader/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/kholodnyakdasha/Desktop/RedditReader/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/kholodnyakdasha/Desktop/RedditReader/app/src/main/AndroidManifest.xml
 meta-data#android.support.VERSION
-ADDED from [com.android.support:appcompat-v7:26.0.0] /Users/kholodnyakdasha/.android/build-cache/ab255654f3ade49ecf7699ff518bd33370e84071/output/AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:support-v4:26.0.0] /Users/kholodnyakdasha/.android/build-cache/0fcb5e00371ac49b7c516b681f09ee7ce988b5a3/output/AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:support-media-compat:26.0.0] /Users/kholodnyakdasha/.android/build-cache/684fcb285d3638f390fe589b65b6514439ff32c6/output/AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:support-fragment:26.0.0] /Users/kholodnyakdasha/.android/build-cache/72c8c37b2b242bb903161e6c00c7eea2ff525ae5/output/AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:support-core-utils:26.0.0] /Users/kholodnyakdasha/.android/build-cache/ab6e3ec7d5fd510e0e748d2131c09c76dd9fdb1b/output/AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:animated-vector-drawable:26.0.0] /Users/kholodnyakdasha/.android/build-cache/9863160f66b973759b00435a1f5437e2bb8a17e6/output/AndroidManifest.xml:23:9-25:38
-MERGED from [com.android.support:support-vector-drawable:26.0.0] /Users/kholodnyakdasha/.android/build-cache/a0222eb59e2ca3d5ad3b7da87cdf3f0cbe371d6e/output/AndroidManifest.xml:23:9-25:38
-MERGED from [com.android.support:recyclerview-v7:26.0.0] /Users/kholodnyakdasha/.android/build-cache/6c1a5c17d354480b66103f2938303e2a5a6a689a/output/AndroidManifest.xml:23:9-25:38
-MERGED from [com.android.support:support-core-ui:26.0.0] /Users/kholodnyakdasha/.android/build-cache/9f7a65113bdd122bf1e0a0904e92a11d1060e473/output/AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:support-compat:26.0.0] /Users/kholodnyakdasha/.android/build-cache/9bc5b2d89728589a15f939b0fc6f45906abcf468/output/AndroidManifest.xml:26:9-28:38
+ADDED from [com.android.support:appcompat-v7:25.4.0] /Users/kholodnyakdasha/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.4.0.aar/329f27f3cc75356b37b6fa6d902278f2/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:recyclerview-v7:25.4.0] /Users/kholodnyakdasha/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-25.4.0.aar/c4666a5d84b49a3be371862a844028c4/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:recyclerview-v7:25.4.0] /Users/kholodnyakdasha/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-25.4.0.aar/c4666a5d84b49a3be371862a844028c4/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:animated-vector-drawable:25.4.0] /Users/kholodnyakdasha/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.4.0.aar/9055a31ade173f00fd8ac58a0487197d/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:animated-vector-drawable:25.4.0] /Users/kholodnyakdasha/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.4.0.aar/9055a31ade173f00fd8ac58a0487197d/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:25.4.0] /Users/kholodnyakdasha/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.4.0.aar/f2f237162d223a2ddf7e0a76fc268752/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:25.4.0] /Users/kholodnyakdasha/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.4.0.aar/f2f237162d223a2ddf7e0a76fc268752/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-v4:25.4.0] /Users/kholodnyakdasha/.gradle/caches/transforms-1/files-1.1/support-v4-25.4.0.aar/8ad619651e770b37f38384b160b3e171/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-v4:25.4.0] /Users/kholodnyakdasha/.gradle/caches/transforms-1/files-1.1/support-v4-25.4.0.aar/8ad619651e770b37f38384b160b3e171/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:25.4.0] /Users/kholodnyakdasha/.gradle/caches/transforms-1/files-1.1/support-fragment-25.4.0.aar/67db4358921e81b078e95c2509125ac6/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:25.4.0] /Users/kholodnyakdasha/.gradle/caches/transforms-1/files-1.1/support-fragment-25.4.0.aar/67db4358921e81b078e95c2509125ac6/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:25.4.0] /Users/kholodnyakdasha/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.4.0.aar/fd66f8b585fcde2f7f91614975da35cb/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:25.4.0] /Users/kholodnyakdasha/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.4.0.aar/fd66f8b585fcde2f7f91614975da35cb/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:25.4.0] /Users/kholodnyakdasha/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.4.0.aar/e24e850b116d7b41e62bd845b6c7ded6/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:25.4.0] /Users/kholodnyakdasha/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.4.0.aar/e24e850b116d7b41e62bd845b6c7ded6/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:25.4.0] /Users/kholodnyakdasha/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.4.0.aar/76843579e2e3a70a5fbf86bff04ab2fe/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:25.4.0] /Users/kholodnyakdasha/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.4.0.aar/76843579e2e3a70a5fbf86bff04ab2fe/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:25.4.0] /Users/kholodnyakdasha/.gradle/caches/transforms-1/files-1.1/support-compat-25.4.0.aar/561851b189a6987c18de8d5a8817154d/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:25.4.0] /Users/kholodnyakdasha/.gradle/caches/transforms-1/files-1.1/support-compat-25.4.0.aar/561851b189a6987c18de8d5a8817154d/AndroidManifest.xml:26:9-28:38
 	android:value
-		ADDED from [com.android.support:appcompat-v7:26.0.0] /Users/kholodnyakdasha/.android/build-cache/ab255654f3ade49ecf7699ff518bd33370e84071/output/AndroidManifest.xml:28:13-35
+		ADDED from [com.android.support:appcompat-v7:25.4.0] /Users/kholodnyakdasha/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.4.0.aar/329f27f3cc75356b37b6fa6d902278f2/AndroidManifest.xml:28:13-35
 	android:name
-		ADDED from [com.android.support:appcompat-v7:26.0.0] /Users/kholodnyakdasha/.android/build-cache/ab255654f3ade49ecf7699ff518bd33370e84071/output/AndroidManifest.xml:27:13-51
+		ADDED from [com.android.support:appcompat-v7:25.4.0] /Users/kholodnyakdasha/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.4.0.aar/329f27f3cc75356b37b6fa6d902278f2/AndroidManifest.xml:27:13-51

@@ -6,16 +6,18 @@
 
     <uses-sdk
         android:minSdkVersion="21"
-        android:targetSdkVersion="26" />
+        android:targetSdkVersion="25" />
 
     <uses-permission android:name="android.permission.INTERNET" />
 
     <application
         android:allowBackup="true"
+        android:debuggable="true"
         android:icon="@mipmap/ic_launcher"
         android:label="@string/app_name"
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
+        android:testOnly="true"
         android:theme="@style/AppTheme" >
         <activity android:name="redditreader.app.MainActivity" >
             <intent-filter>
@@ -27,7 +29,7 @@
 
         <meta-data
             android:name="android.support.VERSION"
-            android:value="26.0.0" />
+            android:value="25.4.0" />
     </application>
 
 </manifest>
