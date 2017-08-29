@@ -35,6 +35,7 @@ public class SubRedditloader_Test {
         RedditResponse reddidResponse= gson.fromJson(getJSON(Url,5000),RedditResponse.class);
 
         List<RedditThred> result = new ArrayList<>();
+        //TODO:  reddidResponse.getData() данных может и не быть
         for (RedditResponse.RedditData  item : reddidResponse.getData().getChildren())
             result.add(item.getData());
         return result;
