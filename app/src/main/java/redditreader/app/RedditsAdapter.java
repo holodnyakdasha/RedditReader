@@ -1,7 +1,6 @@
 package redditreader.app;
 
 import android.content.Context;
-import android.support.v4.app.FragmentActivity;
 import android.support.v7.widget.RecyclerView;
 import android.view.LayoutInflater;
 import android.view.View;
@@ -11,7 +10,6 @@ import android.widget.TextView;
 
 import com.bumptech.glide.Glide;
 
-import java.util.ArrayList;
 import java.util.List;
 
 /**
@@ -22,20 +20,9 @@ public class RedditsAdapter extends RecyclerView.Adapter<RedditsAdapter.ViewHold
     private Context context;
     private List<RedditThred> redditThreds;
 
+    //TODO: Данные в адаптер можно подкинуть и после его создания через setRedditThreads, не забудь дернуть адаптер шоб он обновился
     public RedditsAdapter(Context context) {
-                this.context = context;
-            }
-
-
-
-
-    public RedditsAdapter(ArrayList<RedditThred> redditThreds) {
-
-        this.redditThreds = redditThreds;
-    }
-
-    public RedditsAdapter(FragmentActivity activity) {
-
+        this.context = context;
     }
 
 
@@ -48,9 +35,7 @@ public class RedditsAdapter extends RecyclerView.Adapter<RedditsAdapter.ViewHold
     @Override
     public ViewHolder onCreateViewHolder(ViewGroup viewGroup, int i) {
         View itemView = LayoutInflater.from(context).inflate(R.layout.reddit_item, viewGroup, false);
-                return new ViewHolder(itemView);
-
-
+        return new ViewHolder(itemView);
 
 
     }
@@ -60,7 +45,7 @@ public class RedditsAdapter extends RecyclerView.Adapter<RedditsAdapter.ViewHold
         viewHolder.getName().setText(redditThreds.get(i).getName());
         Glide.with(context).load(redditThreds.get(i).getImagePath()).into(viewHolder.thumbnail);
         viewHolder.getAuthor().setText(redditThreds.get(i).getAuthor());
-        viewHolder.getHour().setText(context.getResources().getQuantityString(R.plurals.hours,(int)redditThreds.get(i).getHour(), (int)redditThreds.get(i).getHour()));
+        viewHolder.getHour().setText(context.getResources().getQuantityString(R.plurals.hours, (int) redditThreds.get(i).getHour(), (int) redditThreds.get(i).getHour()));
     }
 
     @Override
@@ -78,7 +63,8 @@ public class RedditsAdapter extends RecyclerView.Adapter<RedditsAdapter.ViewHold
         private TextView hour;
 
         public TextView getHour() {
-            return hour;}
+            return hour;
+        }
 
         public TextView getAuthor() {
             return author;
