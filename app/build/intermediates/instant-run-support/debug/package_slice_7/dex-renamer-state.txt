@@ -1,4 +1,4 @@
-#Wed Jun 14 14:52:08 EEST 2017
-base.0=/home/dkholodniak/AndroidStudioProjects/RedditReader/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_7
+#Fri Aug 04 17:31:09 EEST 2017
+base.0=/Users/kholodnyakdasha/Desktop/RedditReader/app/build/intermediates/transforms/dexMerger/debug/7
 renamed.0=classes.dex
-file.0=/home/dkholodniak/AndroidStudioProjects/RedditReader/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_7/classes.dex
+file.0=/Users/kholodnyakdasha/Desktop/RedditReader/app/build/intermediates/transforms/dexMerger/debug/7/classes.dex

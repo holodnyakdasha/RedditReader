@@ -24,6 +24,30 @@
         ]
     },
     {
+        "outputFile": "/Users/kholodnyakdasha/Desktop/RedditReader/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v18/values-v18.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 48,
+                    "endOffset": 99
+                },
+                "from": {
+                    "file": "/Users/kholodnyakdasha/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.4.0.aar/329f27f3cc75356b37b6fa6d902278f2/res/values-v18/values-v18.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 48,
+                        "endOffset": 99
+                    }
+                }
+            }
+        ]
+    },
+    {
         "outputFile": "/home/dkholodniak/AndroidStudioProjects/RedditReader/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v18/values-v18.xml",
         "map": [
             {

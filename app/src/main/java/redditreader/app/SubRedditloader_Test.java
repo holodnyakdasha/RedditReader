@@ -35,9 +35,8 @@ public class SubRedditloader_Test {
         RedditResponse reddidResponse= gson.fromJson(getJSON(Url,5000),RedditResponse.class);
 
         List<RedditThred> result = new ArrayList<>();
-        for (RedditResponse.RedditData  item : reddidResponse.getData().getChildren()){
-             result.add(item.getData());
-        }
+        for (RedditResponse.RedditData  item : reddidResponse.getData().getChildren())
+            result.add(item.getData());
         return result;
     }
     public String getJSON(String url, int timeout) {

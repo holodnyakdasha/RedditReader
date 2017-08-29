@@ -5,6 +5,7 @@ import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.support.v7.widget.LinearLayoutManager;
 import android.support.v7.widget.RecyclerView;
+import android.support.v7.widget.RecyclerView.LayoutManager;
 import android.util.Log;
 import android.view.View;
 import android.widget.Toast;
@@ -40,6 +41,7 @@ public class MainActivity extends AppCompatActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
+
         setContentView(R.layout.activity_main);
         if (savedInstanceState == null) {
             getSupportFragmentManager().beginTransaction().replace(R.id.fragment_container, new SearchFormFragment()).addToBackStack(SearchFormFragment.class.getName()).commit();
@@ -54,25 +56,23 @@ public class MainActivity extends AppCompatActivity {
 
         // Log.d("FROM_GSON", obj2.toString());
 
-
+        mRecyclerView = (RecyclerView) findViewById(R.id.reddits_list);
         mCompositeDisposable = new CompositeDisposable();
-        initRecyclerView();
+      //  initRecyclerView();
         loadJSON();
 
     }
 
 
-    private void initRecyclerView() {
+   // private void initRecyclerView() {
 
-        mRecyclerView = (RecyclerView) findViewById(R.id.reddits_list);
-        if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.GINGERBREAD) {
-            mRecyclerView.setHasFixedSize(true);
-        }
-        RecyclerView.LayoutManager layoutManager = new LinearLayoutManager(getApplicationContext());
-        if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.GINGERBREAD) {
-            mRecyclerView.setLayoutManager(layoutManager);
-        }
-    }
+//
+    //        mRecyclerView.setHasFixedSize(true);
+      //      LayoutManager layoutManager = new LinearLayoutManager(getApplicationContext());
+    //        mRecyclerView.setLayoutManager(layoutManager);
+
+       // }
+
 
 
 
@@ -96,10 +96,8 @@ public class MainActivity extends AppCompatActivity {
         private void handleResponse(List<RedditThred> RedditsList) {
 
         mRedditsArrayList = new ArrayList<>(RedditsList);
-        mAdapter = new RedditsAdapter(mRedditsArrayList);
-            if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.GINGERBREAD) {
-                mRecyclerView.setAdapter(mAdapter);
-            }
+        mAdapter = new RedditsAdapter(mRedditsArrayList) ;
+            mRecyclerView.setAdapter(mAdapter);
         }
 
     private void handleError(Throwable error) {

@@ -1,0 +1,19 @@
+#Fri Aug 04 17:31:09 EEST 2017
+renamed.5=classes6.dex
+renamed.4=classes5.dex
+renamed.3=classes4.dex
+renamed.2=classes3.dex
+renamed.1=classes2.dex
+renamed.0=classes.dex
+base.5=/Users/kholodnyakdasha/Desktop/RedditReader/app/build/intermediates/transforms/dexMerger/debug/15
+base.4=/Users/kholodnyakdasha/Desktop/RedditReader/app/build/intermediates/transforms/dexMerger/debug/10
+base.3=/Users/kholodnyakdasha/Desktop/RedditReader/app/build/intermediates/transforms/dexMerger/debug/11
+base.2=/Users/kholodnyakdasha/Desktop/RedditReader/app/build/intermediates/transforms/dexMerger/debug/12
+base.1=/Users/kholodnyakdasha/Desktop/RedditReader/app/build/intermediates/transforms/dexMerger/debug/13
+base.0=/Users/kholodnyakdasha/Desktop/RedditReader/app/build/intermediates/transforms/dexMerger/debug/14
+file.5=/Users/kholodnyakdasha/Desktop/RedditReader/app/build/intermediates/transforms/dexMerger/debug/15/classes.dex
+file.4=/Users/kholodnyakdasha/Desktop/RedditReader/app/build/intermediates/transforms/dexMerger/debug/10/classes.dex
+file.3=/Users/kholodnyakdasha/Desktop/RedditReader/app/build/intermediates/transforms/dexMerger/debug/11/classes.dex
+file.2=/Users/kholodnyakdasha/Desktop/RedditReader/app/build/intermediates/transforms/dexMerger/debug/12/classes.dex
+file.1=/Users/kholodnyakdasha/Desktop/RedditReader/app/build/intermediates/transforms/dexMerger/debug/13/classes.dex
+file.0=/Users/kholodnyakdasha/Desktop/RedditReader/app/build/intermediates/transforms/dexMerger/debug/14/classes.dex
