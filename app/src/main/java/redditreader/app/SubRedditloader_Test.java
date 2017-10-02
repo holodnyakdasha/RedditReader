@@ -36,7 +36,15 @@ public class SubRedditloader_Test {
 
         List<RedditThred> result = new ArrayList<>();
         //TODO:  reddidResponse.getData() данных может и не быть
-        for (RedditResponse.RedditData  item : reddidResponse.getData().getChildren())
+        if(reddidResponse.getData()==null){
+            try{
+                for (RedditResponse.RedditData  item : reddidResponse.getData().getChildren())
+                    result.add(item.getData());
+                return result;
+
+            }catch (NullPointerException e){}
+        }
+      else   for (RedditResponse.RedditData  item : reddidResponse.getData().getChildren())
             result.add(item.getData());
         return result;
     }

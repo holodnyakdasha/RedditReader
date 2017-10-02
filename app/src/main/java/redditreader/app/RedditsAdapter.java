@@ -10,6 +10,7 @@ import android.widget.TextView;
 
 import com.bumptech.glide.Glide;
 
+import java.util.ArrayList;
 import java.util.List;
 
 /**
@@ -23,6 +24,10 @@ public class RedditsAdapter extends RecyclerView.Adapter<RedditsAdapter.ViewHold
     //TODO: Данные в адаптер можно подкинуть и после его создания через setRedditThreads, не забудь дернуть адаптер шоб он обновился
     public RedditsAdapter(Context context) {
         this.context = context;
+    }
+
+    public RedditsAdapter(ArrayList<RedditThred> mRedditsArrayList) {
+
     }
 
 
